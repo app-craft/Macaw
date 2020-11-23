@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "Macaw"
-  s.version          = "1.0.0-appcraft"
+  s.version          = "1.0.1-appcraft"
   s.summary          = "Powerful and easy-to-use vector graphics library with SVG support written in Swift."
 
 # This description is used to generate tags and improve search results.
